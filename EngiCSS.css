@@ -1,0 +1,44 @@
+<style>
+
+body
+	{background-image:url("https://i.redd.it/7jrui5uu0hw31.png");
+	}
+	
+header
+	{background-color:#AD2D2D;
+	text-align: center;
+	font-size: 60;
+	padding: 5px}
+	
+iframe
+	{width=1120;
+	height=630;
+	background-color:#AD2D2D;
+	border: 50px solid black;
+	}
+
+h2
+	{font-size: 55;
+	background-color:#AD2D2D;
+	color: white;}
+
+nav
+	{float: left}
+
+
+	
+.WhiteSpace
+	{padding:15px;}
+
+.DiverderLine
+	{border: 15px solid #AD2D2D;
+	page-align: center;}
+	
+p
+	{margin: 20px;
+	font-size: 30;
+	background-image:url("https://i.redd.it/7jrui5uu0hw31.png");}
+	
+
+
+</style>
